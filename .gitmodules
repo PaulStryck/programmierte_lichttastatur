@@ -1,0 +1,6 @@
+[submodule "dmx"]
+	path = dmx
+	url = git@github.com:PaulStryck/dmx_ctrl_board.git
+[submodule "led"]
+	path = led
+	url = git@github.com:PaulStryck/dmx_led_board.git
